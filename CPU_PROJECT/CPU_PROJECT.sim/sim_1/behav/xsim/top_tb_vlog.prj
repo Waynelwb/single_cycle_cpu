@@ -1,0 +1,23 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"../../../../../CPU/ALU.v" \
+"../../../../../CPU/CPU.v" \
+"../../../../../CPU/DECODER.v" \
+"../../../../../CPU/DMEM.v" \
+"../../../../../CPU/EXT16.v" \
+"../../../../../CPU/EXT18.v" \
+"../../../../../CPU/EXT5.v" \
+"../../../../../CPU/IMEM.v" \
+"../../../../../CPU/JOIN.v" \
+"../../../../../CPU/MUX.v" \
+"../../../../../CPU/NPC.v" \
+"../../../../../CPU/PC.v" \
+"../../../../../CPU/REGFILE.v" \
+"../../../../../CPU/TOP.v" \
+"../../../../../CPU/TOP_TB.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort

@@ -1,0 +1,33 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/CPU/ALU.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module alu
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/CPU/CPU.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module cpu
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/CPU/DECODER.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module decoder
+INFO: [VRFC 10-2458] undeclared symbol DM_2, assumed default net type wire [D:/CPU/DECODER.v:41]
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/CPU/DMEM.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module dmem
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/CPU/EXT16.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module ext16
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/CPU/EXT18.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module ext18
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/CPU/EXT5.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module ext5
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/CPU/IMEM.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module imem
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/CPU/JOIN.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module JOIN
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/CPU/MUX.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module mux2x32
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/CPU/NPC.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module NPC
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/CPU/PC.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module PC
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/CPU/REGFILE.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module regfile
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/CPU/TOP.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module top
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/CPU/TOP_TB.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module top_tb
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/CPU_PROJECT/CPU_PROJECT.sim/sim_1/behav/xsim/glbl.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module glbl

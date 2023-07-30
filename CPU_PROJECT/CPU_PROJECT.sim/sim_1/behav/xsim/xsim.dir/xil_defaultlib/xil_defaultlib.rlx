@@ -1,0 +1,20 @@
+0.6
+2018.3
+Dec  7 2018
+00:33:28
+D:/CPU/ALU.v,1649477930,verilog,,D:/CPU/CPU.v,,alu,,,,,,,,
+D:/CPU/CPU.v,1649388803,verilog,,D:/CPU/DECODER.v,,cpu,,,,,,,,
+D:/CPU/DECODER.v,1649693248,verilog,,D:/CPU/DMEM.v,,decoder,,,,,,,,
+D:/CPU/DMEM.v,1648739727,verilog,,D:/CPU/EXT16.v,,dmem,,,,,,,,
+D:/CPU/EXT16.v,1648742777,verilog,,D:/CPU/EXT18.v,,ext16,,,,,,,,
+D:/CPU/EXT18.v,1648743032,verilog,,D:/CPU/EXT5.v,,ext18,,,,,,,,
+D:/CPU/EXT5.v,1648741911,verilog,,D:/CPU/IMEM.v,,ext5,,,,,,,,
+D:/CPU/IMEM.v,1649438169,verilog,,D:/CPU/JOIN.v,,imem,,,,,,,,
+D:/CPU/JOIN.v,1648744131,verilog,,D:/CPU/MUX.v,,JOIN,,,,,,,,
+D:/CPU/MUX.v,1648740792,verilog,,D:/CPU/NPC.v,,mux2x32,,,,,,,,
+D:/CPU/NPC.v,1648738879,verilog,,D:/CPU/PC.v,,NPC,,,,,,,,
+D:/CPU/PC.v,1648739698,verilog,,D:/CPU/REGFILE.v,,PC,,,,,,,,
+D:/CPU/REGFILE.v,1648658569,verilog,,D:/CPU/TOP.v,,regfile,,,,,,,,
+D:/CPU/TOP.v,1649430594,verilog,,D:/CPU/TOP_TB.v,,top,,,,,,,,
+D:/CPU/TOP_TB.v,1649693480,verilog,,,,top_tb,,,,,,,,
+D:/CPU_PROJECT/CPU_PROJECT.sim/sim_1/behav/xsim/glbl.v,1544155481,verilog,,,,glbl,,,,,,,,
